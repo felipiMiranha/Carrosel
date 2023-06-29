@@ -1,0 +1,38 @@
+body{
+text-align:center
+}
+
+h1{
+font-size:40px;
+font-family:cursive;
+font-weight:400;
+color: aqua;
+}
+
+#app{
+background-color:#a0a1ee;
+}
+
+#myCarousel{
+background-color: #e2f575;
+}
+
+.line{
+height:6px;
+background-color:aqua;
+width:70px;
+margin:8px auto;
+}
+
+#myCarousel img{
+margin-top:35px;
+margin: 8px auto;
+}
+
+.carousel-inner p{
+margin-top:15px;
+color:#1336ff ;
+font-family:cursive;
+
+}
+
